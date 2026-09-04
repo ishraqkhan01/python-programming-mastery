@@ -1,0 +1,3 @@
+Name= "Ishraq Khan"
+Age=23
+City="Swabi"

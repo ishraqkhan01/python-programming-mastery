@@ -1,0 +1,39 @@
+1. Create a text file named “student.txt”. Write your name, age, and city on separate lines. Then open the same file in read mode, read its complete contents, and display them.
+
+2. Create a small text file and practice the three basic modes “r”, “w”, and “a”. First read the existing content, then replace it using write mode, and finally add one new line using append mode. Observe the difference between them.
+
+3. Create a text file containing a short paragraph about Python. Open it in read mode and use read(n) to display only the first 10 characters. Then read and display the remaining content.
+
+4. Create a file containing five student names, one per line. Use readline() to read and display the first three lines one by one. Pay attention to how the file position moves after each call.
+
+5. Create a file containing five programming languages, one per line. Use readlines() to store all lines in a list. Print the list and then use a loop to print each language separately
+
+6. Create a file named “languages.txt” and store five programming languages in it, one per line. Use write() and the newline character (\n) so that every language appears on a separate line.
+
+7. Create a list containing five student names. Use writelines() to write all names into a file, making sure each name appears on a separate line. Then read the file and verify the result.
+
+8. Write a file-reading program using with open(...) as file. Read a text file and print its contents. Do not manually call close(); let the with statement handle the file safely.
+
+9. Create a file containing three messages. Use “w” mode to replace the existing messages with a new message. Then use “a” mode to add two more messages without deleting the new content. Finally, read and display the complete file.
+
+10. Create a UTF-8 text file containing English text and a few non-English characters. Open it using encoding="utf-8" and display its contents. Practice specifying the encoding explicitly.
+
+11. Create a text file containing a short sentence. Read a few characters, use tell() to check the current file position, then use seek(0) to return to the beginning and read the complete file again.
+
+12. Write a program that tries to open “data.txt” for reading. Use try and except to handle FileNotFoundError and display a clear message instead of allowing the program to crash. 
+
+13. Create a file containing several numbers, one number per line. Use a for loop to read the file line by line, convert each line to an integer, and print the number together with its square.
+
+14. Using either os or pathlib, check whether “report.txt” exists. Display an appropriate message for both cases. Also practice checking whether a given path is a file or a directory.
+
+15. Create a text file named “old_name.txt”, write one short message into it, and then rename it to “new_name.txt” using either os or pathlib. Verify that the renamed file exists.
+
+16. Create a simple CSV file containing columns such as name, age, and marks with a few student records. Use Python’s csv module and csv.reader to read the file and print each row. Do not use Pandas.
+
+17. Using student CSV data, read the file with csv.DictReader. Print each student’s name and marks using the column names instead of numeric indexes. This will help you understand structured CSV rows.
+
+18. Create a Python dictionary containing a student’s name, age, city, and a list of skills. Save it to a JSON file using json.dump() with indentation, then open the file and load it using json.load(). Finally, print the loaded data.
+
+19. Choose a small binary file such as an image. Open the original using “rb”, read its binary data, create a copy using “wb”, and write the same binary data into the copy. Verify that the copied file works normally.
+
+20. Create a simple Student Record Manager using the File Handling concepts you have studied. Ask the user for a student’s name, age, and marks, save the record to a text or CSV file, allow another record to be appended, and then read and display all saved records. Handle a missing file and use with open() throughout the program.

@@ -1,0 +1,20 @@
+Question 1: Create a dictionary containing a student's name, age, department, and CGPA. Print the dictionary and access each value using its key.
+Question 2: Create an employee dictionary with ID, name, department, and salary. Print the employee's name and salary separately.
+Question 3: Create a dictionary and safely access a key using `get()`. Also test a key that does not exist.
+Question 4: Create a student dictionary and update the student's age to a new value. Print the updated dictionary.
+Question 5: Create a product dictionary with name and price. Add a `quantity` key with a suitable value.
+Question 6: Create a dictionary and remove a selected key using `pop()`. Store and print the removed value and updated dictionary.
+Question 7: Create a dictionary and use `del` to remove one specific key-value pair. Print the final dictionary.
+Question 8: Create a dictionary and use `clear()` to remove all key-value pairs. Print the result.
+Question 9: Create a dictionary and use `keys()` to print all keys one by one with a loop.
+Question 10: Create a dictionary and use `values()` to print all values one by one with a loop.
+Question 11: Create a dictionary and use `items()` with a loop to print every key and value in `key: value` format.
+Question 12: Create two dictionaries and use `update()` to merge the second dictionary's data into the first.
+Question 13: Create a subject-marks dictionary. Use a loop to calculate total and average marks.
+Question 14: Create a subject-marks dictionary. Use a loop and `if` to print only subjects where marks are 80 or above.
+Question 15: Create five products and prices in a dictionary. Use a loop to find the highest-priced product without `max()`.
+Question 16: Create a dictionary mapping 1, 2, and 3 to `One`, `Two`, and `Three`. Ask the user for a number and display the matching word.
+Question 17: Create a nested dictionary containing two students with name, age, and CGPA. Access and print the second student's CGPA.
+Question 18: Create an employee-name-to-salary dictionary. Use a loop to count how many employees earn more than 100000.
+Question 19: Create a word-meaning dictionary. Ask the user for a word and use `get()` to display its meaning or a suitable missing-key message.
+Question 20: Create a dictionary containing numbers 1 through 10 as keys and their squares as values. Build it using a loop and print it.

@@ -1,0 +1,20 @@
+Question 1: Create a tuple containing five integers. Print the complete tuple, its first element, and its last element using indexing.
+Question 2: Create a tuple of five student names. Use negative indexing to print the last two names.
+Question 3: Create a tuple containing numbers and use slicing to print its middle portion.
+Question 4: Create a tuple and use `len()` to print the number of elements it contains.
+Question 5: Create a tuple containing duplicate values and use `count()` to find how many times a selected value appears.
+Question 6: Create a tuple of programming languages and use `index()` to find the position of a specific language.
+Question 7: Create a tuple containing three values and demonstrate tuple unpacking by assigning each value to a separate variable.
+Question 8: Create a tuple containing a person's name, age, and city. Unpack it and print a complete sentence using the variables.
+Question 9: Create a single-element tuple containing 100. Show the correct syntax required to make it a tuple rather than an integer.
+Question 10: Create a tuple of five numbers and use a loop to print each value on a separate line.
+Question 11: Given a tuple of numbers, use a loop to calculate its total without using `sum()`.
+Question 12: Given a tuple of integers, use a loop and condition to print only even values.
+Question 13: Given a tuple of names, use a loop to count how many names have more than five characters.
+Question 14: Create a tuple containing a string, integer, float, and Boolean. Print each value and its type.
+Question 15: Create a tuple containing a list as one element. Modify an element inside that nested list and print the tuple to observe the result.
+Question 16: Create two tuples and combine them using `+`. Print the resulting tuple.
+Question 17: Create a tuple and repeat it three times using `*`. Print the result.
+Question 18: Create a tuple of numbers and use membership testing to check whether a user-entered number exists.
+Question 19: Attempt to change one tuple element and observe the error. Add a comment explaining why the operation is not allowed.
+Question 20: Create a tuple representing `(name, age, department, cgpa)`. Unpack it and print the information in a readable format.

@@ -1,0 +1,3 @@
+Hello World!
+پائتھون ایک بہترین زبان ہے (Python is awesome!)
+Bonjour, comment ça va?

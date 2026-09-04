@@ -1,0 +1,20 @@
+Question 1: Create a list named `numbers` containing 10, 20, 30, 40, and 50. Print the complete list, its first element, and its last element.
+Question 2: Create a list of five student names. Print the second student, the second-last student, and the total number of students using indexing and `len()`.
+Question 3: Create a list containing numbers from 1 to 10 and use a loop to print every element on a separate line.
+Question 4: Given `numbers = [5, 10, 15, 20, 25]`, change 15 to 100 and print the updated list.
+Question 5: Create a list of three programming languages. Add a fourth language at the end using `append()` and display the final list.
+Question 6: Create a list of three cities. Insert a new city at index 1 using `insert()` and print the updated list.
+Question 7: Given `[10, 20, 30, 40, 50]`, remove 30 using `remove()` and print the resulting list.
+Question 8: Create a list of five numbers and use `pop()` to remove the last element. Store the removed value in a variable and print both.
+Question 9: Create a list of fruits and use `pop(index)` to remove a fruit from a specific position. Display the removed fruit and remaining list.
+Question 10: Create two lists of numbers. Use `extend()` to add all elements of the second list to the first list, then print the combined list.
+Question 11: Create a list with duplicate numbers such as `[10, 20, 10, 30, 20, 40]`. Use `count()` to find how many times 10 and 20 occur.
+Question 12: Create a list of numbers in random order. Use `sort()` to arrange them in ascending order and print the result.
+Question 13: Create a list of numbers and sort it in descending order using the appropriate `sort()` argument.
+Question 14: Create a list of names, use `reverse()` to reverse its order, and print the final list.
+Question 15: Create a list of five numbers and make a separate copy using `copy()`. Modify the copied list and prove that the original remains unchanged.
+Question 16: Create a list of marks. Use a loop to calculate and print the total and average without using `sum()`.
+Question 17: Given a list of integers, use a loop and `if` to create a new list containing only even numbers.
+Question 18: Given a list of integers, use a loop and `if` to create a new list containing only numbers greater than 50.
+Question 19: Create a nested list representing three students, where each inner list contains a name and two marks. Access and print the second student's name and marks.
+Question 20: Create a list of numbers and write a program that searches for a user-entered number. Clearly report whether it exists.

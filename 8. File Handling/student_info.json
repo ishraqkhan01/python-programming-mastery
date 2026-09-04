@@ -1,0 +1,11 @@
+{
+    "name": "Ishraq Khan",
+    "age": 21,
+    "city": "Peshawar",
+    "skills": [
+        "Python",
+        "Data Analysis",
+        "SQL",
+        "Git"
+    ]
+}

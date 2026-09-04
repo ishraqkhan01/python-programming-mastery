@@ -1,0 +1,48 @@
+Introduction, Variables, Data Types, Input/Output, Type Casting, Operators,  Comments, Keyword, if, if-else, if-elif-else and strings, strings (method/functions)
+Question 1: Write a Python program that prints 'Hello, Python!' followed by your full name, city, and your career goal on separate lines.
+Question 2: Write a Python program that stores your name, age, CGPA, and graduation status in separate variables and displays them neatly.
+Question 3: Write a program that creates variables of type int, float, str, and bool, then prints each value along with its data type.
+Question 4: Write a program that asks the user for their name, age, and city, then displays a formatted introduction.
+Question 5: Write a program that accepts two numbers as strings, converts them into integers, and prints their sum, difference, product, and quotient.
+Question 6: Write a calculator that performs all arithmetic operations on two user-entered numbers.
+Question 7: Write a program containing meaningful single-line and multi-line comments explaining each section.
+Question 8: Write a program that imports the keyword module and prints all Python keywords.
+Question 9: Write a program that asks for a number and determines whether it is positive.
+Question 10: Write a program that checks whether a number is even or odd using if-else.
+Question 11: Write a grading system using if-elif-else.
+Question 12: Write a program to compare two numbers and display the larger value.
+Question 13: Write a program that checks whether a person is eligible to vote.
+Question 14: Write a program to find the largest among three numbers.
+Question 15: Write a password validation program using logical operators.
+Question 16: Write a simple login system with predefined username and password.
+Question 17: Write a program to check whether a character is a vowel or consonant.
+Question 18: Write a program that counts the total vowels in a user-entered string.
+Question 19: Write a string formatter using upper(), lower(), title(), capitalize().
+Question 20: Write a program that reverses a string without using slicing. 
+Question 21: Write a program to determine whether a string is a palindrome. 
+Question 22: Write a program to replace all spaces with underscores.
+Question 23: Write a program to count words in a sentence. 
+Question 24: Write a program to remove leading and trailing spaces.
+Question 25: Write a program to convert a sentence to title case.
+Question 26: Write a program to check if one string exists inside another. 
+Question 27: Write a program to count occurrences of a specific character. 
+Question 28: Write a program to extract the username from an email address. 
+Question 29: Write a program to mask all but the last four digits of a phone number.
+Question 30: Write a program to compare two strings ignoring case.
+Question 31: Write a menu-driven calculator using if-elif-else.
+Question 32: Write a bill calculator applying discounts based on purchase amount.
+Question 33: Write a salary bonus calculator based on employee performance.
+Question 34: Write a BMI calculator displaying category.
+Question 35: Write a Celsius/Fahrenheit converter. 
+Question 36: Write a seconds-to-hours converter. 
+Question 37: Write a rectangle area/perimeter calculator.
+Question 38: Write a circle calculator showing area and circumference.
+Question 39: Write a simple interest calculator.
+Question 40: Write a compound interest calculator.
+Question 41: Write a student percentage and grade calculator.
+Question 42: Write a program using membership operators to search a word.
+Question 43: Write a program demonstrating identity operators using lists.
+Question 44: Write a program using bitwise operators on two integers.
+Question 45: Write a strong password checker using string methods and conditions.
+ 
+

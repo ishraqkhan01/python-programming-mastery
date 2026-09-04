@@ -1,0 +1,20 @@
+Question 1: Create a set containing 10, 20, 30, 40, and 50. Print it and check whether 30 exists using `in`.
+Question 2: Create a set containing duplicate numbers and print it to observe how repeated values are handled.
+Question 3: Create an empty set correctly using `set()` and print its type.
+Question 4: Create a fruit set and add a new fruit using `add()`. Print the updated set.
+Question 5: Create a number set and use `update()` to add several new numbers from a list.
+Question 6: Create a set and remove an existing element using `remove()`. Print the updated set.
+Question 7: Create a set and use `discard()` to remove a value that may not exist. Ensure the program does not crash.
+Question 8: Create a set and use `pop()` to remove an element. Print the set before and after.
+Question 9: Create a set and use `clear()` to remove all elements. Print the final empty set.
+Question 10: Create two number sets and find their union using both `union()` and `|`.
+Question 11: Create two sets and find their intersection using both `intersection()` and `&`.
+Question 12: Create two sets and find the difference of the first from the second using both `difference()` and `-`.
+Question 13: Create two sets and find their symmetric difference using both `symmetric_difference()` and `^`.
+Question 14: Create two sets of student names representing two courses. Find the students enrolled in both courses.
+Question 15: Create two sets representing employees from two departments. Find all employees who belong to at least one department.
+Question 16: Create a list containing repeated values. Convert it to a set to remove duplicates, then convert it back to a list.
+Question 17: Create a set of numbers and use a loop to print each element. Also check whether a user-entered value exists.
+Question 18: Create two sets and use `issubset()` to check whether every element of the first is contained in the second.
+Question 19: Create two sets and use `issuperset()` to check whether the first contains every element of the second.
+Question 20: Create a set and demonstrate membership testing, adding an item, removing an item, and finding the number of unique elements.

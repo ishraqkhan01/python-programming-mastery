@@ -1,0 +1,39 @@
+Question 1: Write a function named `greet()` that prints `Hello, Python!`. Call the function so that the message is displayed. Then call the same function two more times to practice creating and calling a function.
+
+Question 2: Write a function named `greet_user(name)` that accepts a person's name as an argument and prints a friendly greeting using that name. Call the function with at least three different names.
+
+Question 3: Write a function named `add_numbers(a, b)` that accepts two numbers and returns their sum. Store the returned result in a variable and print the result. Test the function with different numbers.
+
+Question 4: Write a function named `square(number)` that accepts one number and returns its square. Call the function with 5, 10, and 12 and print the returned values.
+
+Question 5: Write a function named `calculate_rectangle(length, width)` that calculates the area and perimeter of a rectangle and returns both results. Call the function and print the area and perimeter separately.
+
+Question 6: Write a function named `student_info(name, age, city)` that accepts a student's name, age, and city and prints all three pieces of information in a clear sentence. Call the function with example values.
+
+Question 7: Write a function named `greet(name, message="Welcome")` that prints the message together with the person's name. Call it once using only the name and once using both the name and a custom message.
+
+Question 8: Write a function named `check_even(number)` that accepts a number and prints whether the number is even or odd. Use an `if-else` statement inside the function and test it with several numbers.
+
+Question 9: Write a function named `is_positive(number)` that returns `True` when the number is greater than zero and `False` otherwise. Call it with positive, negative, and zero values and print the results.
+
+Question 10: Write a function named `print_numbers(n)` that accepts a number and uses a `for` loop to print all numbers from 1 up to `n`. Call the function with different values.
+
+Question 11: Write a function named `count_vowels(text)` that accepts a string and uses a loop to count how many vowels (`a, e, i, o, u`) it contains. Return the count and test it with at least three strings.
+
+Question 12: Write a function named `find_largest(numbers)` that accepts a list of numbers and returns the largest number. Do not use `max()`; use a loop and a variable to find the result.
+
+Question 13: Write a function named `calculate_sum(*numbers)` that can receive any number of numeric arguments and returns their total. Test it with two numbers, five numbers, and no arguments.
+
+Question 14: Write a recursive function named `countdown(n)` that prints the numbers from `n` down to 1 and then prints `Done!`. Make sure you have a correct base case so the function stops.
+
+Question 15: Create a lambda function that accepts one number and returns its square. Store the lambda in a variable named `square` and use it to calculate the squares of 4, 7, and 10.
+
+Question 16: Create a list containing five programming languages. Use `enumerate()` to print each language together with its position, starting the position from 1.
+
+Question 17: Create a list of numbers such as `[1, 2, 3, 4, 5]`. Use `map()` and a simple function to create a new list containing the square of every number. Print both lists.
+
+Question 18: Create a list of numbers from 1 to 20. Use `filter()` and a function to create a new list containing only the even numbers. Print the resulting list.
+
+Question 19: Import `reduce` from `functools` and use it with a simple function to calculate the total of `[1, 2, 3, 4, 5]`. Do not use `sum()`. Print the final result.
+
+Question 20: Create a function named `process_numbers(numbers)` that accepts a list of numbers. Inside the function, use a simple loop and conditions to count how many numbers are even and how many are odd. Return both counts and print them outside the function.

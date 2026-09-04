@@ -1,0 +1,20 @@
+Question 1: Write a `for` loop that prints numbers from 1 to 10, with each number on a separate line.
+Question 2: Write a `for` loop using `range()` to print all even numbers from 2 through 20.
+Question 3: Write a `for` loop using a negative step to print numbers from 10 down to 1.
+Question 4: Ask the user for a number and use a `for` loop to print its multiplication table from 1 to 10.
+Question 5: Use a `for` loop to calculate the sum of all numbers from 1 to 100 and print the result.
+Question 6: Use a `for` loop and `if` to print only odd numbers from 1 to 50.
+Question 7: Use a `for` loop to count how many vowels appear in a user-entered string.
+Question 8: Use a `for` loop to count how many numbers in a given list are greater than 50.
+Question 9: Use a `for` loop to search for a target in a list. Print `Found` and stop with `break` when located.
+Question 10: Use a `for` loop with `continue` to print numbers from 1 to 20 while skipping multiples of 3.
+Question 11: Write a `while` loop that prints numbers from 1 to 10 and correctly updates the counter so it terminates.
+Question 12: Write a `while` loop that repeatedly asks for a password until the correct password is entered.
+Question 13: Write a `while` loop that keeps accepting numbers and adds them to a total until the user enters 0.
+Question 14: Write a `while` loop that counts down from a user-entered number to 1.
+Question 15: Use nested `for` loops to print a 5-by-5 rectangle made of `*` characters.
+Question 16: Use nested loops to print one star on the first line, two on the second, and continue until five stars.
+Question 17: Given a list of names, use `enumerate()` to print each name with its position starting from 1.
+Question 18: Given a list of numbers, use a loop to create a new list containing the square of every number.
+Question 19: Use a loop to find the largest number in a list without using `max()`.
+Question 20: Use a loop, counter, condition, and `break` to search a list and report whether a user-entered value was found.
