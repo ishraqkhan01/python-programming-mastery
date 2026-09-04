@@ -104,8 +104,8 @@ The project roadmap contains **5 practical Python projects**, progressing from b
 
 | # | Project | Difficulty | Status |
 |---|---|---|---|
-| 1 | Student Management System | Beginner → Basic | 🟢 Current |
-| 2 | Personal Expense Tracker | Beginner → Intermediate | ⚪ Planned |
+| 1 | Student Management System | Beginner → Basic | ✅ Completed |
+| 2 | Personal Expense Tracker | Beginner → Intermediate | 🟢 Current |
 | 3 | Library Management System | Basic → Intermediate | ⚪ Planned |
 | 4 | Mini E-Commerce System | Intermediate | ⚪ Planned |
 | 5 | Bank Management System | Intermediate → Strong Foundation | ⚪ Planned |
@@ -485,14 +485,6 @@ Practical Projects
 - [ ] Project 3 — Library Management System
 - [ ] Project 4 — Mini E-Commerce System
 - [ ] Project 5 — Bank Management System
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Data Visualization
-- [ ] Data Science
-- [ ] Machine Learning
-- [ ] AI / Deep Learning
-- [ ] Web / Backend Development
-
 ---
 
 ## 🐍 Learning Philosophy
