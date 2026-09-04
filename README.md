@@ -2,7 +2,7 @@
 
 A structured Python learning repository covering **Python fundamentals, problem-solving practice, file handling, interview preparation, and practical projects**.
 
-This repository documents a learning path from **Python basics → practice → projects → real-world Python → NumPy/Pandas and beyond**.
+This repository documents a learning path from **Python basics → practice → projects → real-world Python**.
 
 ---
 
