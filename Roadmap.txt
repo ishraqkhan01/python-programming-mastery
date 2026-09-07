@@ -1,0 +1,58 @@
+PYTHON FUNDAMENTALS
+        │
+        ├── Introduction
+        ├── Variables
+        ├── Data Types
+        ├── Input / Output
+        ├── Type Casting
+        ├── Operators
+        ├── Comments
+        └── Keywords
+                ↓
+        CONTROL FLOW
+        ├── if
+        ├── if-else
+        └── if-elif-else
+                ↓
+        STRINGS
+        ├── Indexing
+        ├── Slicing
+        └── String Methods
+                ↓
+        DATA STRUCTURE / COLLECTIONS
+        ├── List
+        ├── Tuple
+        ├── Dictionary
+        └── Set
+                ↓
+        LOOPS
+        ├── for
+        ├── while
+        ├── break
+        ├── continue
+        └── pass
+                ↓
+        FUNCTIONS
+        ├── Parameters
+        ├── Arguments
+        ├── return
+        ├── *args
+        ├── Recursion
+        └── Lambda
+                ↓
+        FUNCTIONAL TOOLS
+        ├── enumerate()
+        ├── map()
+        ├── filter()
+        └── reduce()
+                ↓
+        FILE HANDLING
+        ├── open()
+        ├── read/write
+        ├── with
+        ├── encoding
+        ├── try/except
+        ├── os
+        ├── pathlib
+        ├── CSV
+        └── JSON
